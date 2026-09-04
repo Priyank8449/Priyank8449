@@ -105,10 +105,10 @@ A web-based virtual assistant project designed to interact with users through a 
 
 **Tech:** `React` `JavaScript` `Web APIs`
 
----
 
 
 
+<p align="center">
 
 <a href="https://github.com/Priyank8449/Cara-The-Ecommerce-platform">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyank8449&repo=Cara-The-Ecommerce-platform&theme=tokyonight&hide_border=true" />
@@ -133,6 +133,8 @@ A web-based virtual assistant project designed to interact with users through a 
 <a href="https://github.com/Adhawan006/SmartHR">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adhawan006&repo=SmartHR&theme=tokyonight&hide_border=true" />
 </a>
+
+</p>
 
 
 # 🧠 DSA Journey
