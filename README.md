@@ -213,9 +213,8 @@ Bit Manipulation
 ---
 
 # 🐍 Contribution Graph
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Priyank8449/Priyank8449/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Priyank8449/Priyank8449/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
