@@ -74,67 +74,87 @@ I enjoy turning ideas into functional products, experimenting with new technolog
 </p>
 
 ---
+## 🚀 Featured Projects
 
-# 🚀 Featured Projects
+<table>
+<tr>
+<td width="50%">
 
-## 🍔 AnyTime Craving— Full Stack Food Ordering Platform
+### 🛒 Cara — E-Commerce Platform
 
-A complete food ordering experience with modern UI and full-stack functionality.
+A modern e-commerce website built with HTML, CSS and JavaScript.
 
-**Features**
+**Tech:** `HTML` `CSS` `JavaScript`
 
-* 🛒 Shopping cart
-* 💳 Payment integration
-* 📦 Checkout system
-* 📍 Live order tracking
-* 👤 User functionality
-* ⚡ Responsive UI
+[🔗 View Repository](https://github.com/Priyank8449/Cara-The-Ecommerce-platform)
 
-**Tech:** `React` `Node.js` `Express` `MongoDB`
+</td>
 
----
+<td width="50%">
 
+### 🍔 Foodie App
 
----
+A food ordering application with cart, checkout and modern UI.
 
----
+**Tech:** `JavaScript` `React`
 
-## 🤖 Nova — Virtual Assistant
+[🔗 View Repository](https://github.com/Priyank8449/foodie-app)
 
-A web-based virtual assistant project designed to interact with users through a modern interface.
+</td>
+</tr>
 
-**Tech:** `React` `JavaScript` `Web APIs`
+<tr>
+<td width="50%">
 
+### 🤖 Nova — Virtual Assistant
 
+A web-based virtual assistant with an interactive modern interface.
 
+**Tech:** `JavaScript` `Web APIs`
 
-<p align="center">
+[🔗 View Repository](https://github.com/Priyank8449/nova-virtual-assistant)
 
-<a href="https://github.com/Priyank8449/Cara-The-Ecommerce-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyank8449&repo=Cara-The-Ecommerce-platform&theme=tokyonight&hide_border=true" />
-</a>
+</td>
 
-<a href="https://github.com/Priyank8449/foodie-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyank8449&repo=foodie-app&theme=tokyonight&hide_border=true" />
-</a>
+<td width="50%">
 
-<a href="https://github.com/Priyank8449/nova-virtual-assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyank8449&repo=nova-virtual-assistant&theme=tokyonight&hide_border=true" />
-</a>
+### 👟 Shoe Room
 
-<a href="https://github.com/Priyank8449/shoe_room">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyank8449&repo=shoe_room&theme=tokyonight&hide_border=true" />
-</a>
+A modern shoe/e-commerce website.
 
-<a href="https://github.com/Priyank8449/Food-Del">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyank8449&repo=Food-Del&theme=tokyonight&hide_border=true" />
-</a>
+**Tech:** `JavaScript`
 
-<a href="https://github.com/Adhawan006/SmartHR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adhawan006&repo=SmartHR&theme=tokyonight&hide_border=true" />
-</a>
+[🔗 View Repository](https://github.com/Priyank8449/shoe_room)
 
-</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🍴 Food-Del
+
+A food delivery web application.
+
+**Tech:** `JavaScript`
+
+[🔗 View Repository](https://github.com/Priyank8449/Food-Del)
+
+</td>
+
+<td width="50%">
+
+### 👨‍💼 SmartHR
+
+Smart HR Management System built with React, Firebase and CSS.
+
+**Tech:** `React` `Firebase` `CSS`
+
+[🔗 View Repository](https://github.com/Adhawan006/SmartHR)
+
+</td>
+</tr>
+</table>
 
 
 # 🧠 DSA Journey
