@@ -110,7 +110,7 @@ A food ordering application with cart, checkout and modern UI.
 
 A web-based virtual assistant with an interactive modern interface.
 
-**Tech:** `JavaScript` `Web APIs`
+**Tech:** `JavaScript` `Html Css `
 
 [🔗 View Repository](https://github.com/Priyank8449/nova-virtual-assistant)
 
@@ -122,7 +122,7 @@ A web-based virtual assistant with an interactive modern interface.
 
 A modern shoe/e-commerce website.
 
-**Tech:** `JavaScript`
+**Tech:** `JavaScript` `React` ` Tailwind`
 
 [🔗 View Repository](https://github.com/Priyank8449/shoe_room)
 
@@ -134,9 +134,9 @@ A modern shoe/e-commerce website.
 
 ### 🍴 Food-Del
 
-A food delivery web application.
+A full-stack  food delivery web application with live tracking and payment gateway.
 
-**Tech:** `JavaScript`
+**Tech:** `JavaScript` `React` `Express` `MongoDB` 
 
 [🔗 View Repository](https://github.com/Priyank8449/Food-Del)
 
@@ -148,7 +148,7 @@ A food delivery web application.
 
 Smart HR Management System built with React, Firebase and CSS.
 
-**Tech:** `React` `Firebase` `CSS`
+**Tech:** `React` `Firebase` `Node` `Express` `Tailwind`
 
 [🔗 View Repository](https://github.com/Adhawan006/SmartHR)
 
