@@ -77,7 +77,7 @@ I enjoy turning ideas into functional products, experimenting with new technolog
 
 # 🚀 Featured Projects
 
-## 🍔 Foodie — Full Stack Food Ordering Platform
+## 🍔 AnyTime Craving— Full Stack Food Ordering Platform
 
 A complete food ordering experience with modern UI and full-stack functionality.
 
@@ -94,33 +94,8 @@ A complete food ordering experience with modern UI and full-stack functionality.
 
 ---
 
-## 🎵 Spotify Clone
-
-A modern music streaming interface inspired by Spotify.
-
-**Highlights**
-
-* 🎧 Music-focused UI
-* 📱 Responsive design
-* 🎨 Modern component-based architecture
-* ⚡ React-based frontend
-
-**Tech:** `React` `JavaScript` `CSS`
 
 ---
-
-## 🎬 Netflix Clone
-
-A streaming-platform inspired web application.
-
-**Highlights**
-
-* 🎬 Movie/TV interface
-* 🔥 Modern streaming UI
-* 📱 Responsive design
-* ⚛️ Component-based React architecture
-
-**Tech:** `React` `JavaScript` `CSS`
 
 ---
 
@@ -132,13 +107,33 @@ A web-based virtual assistant project designed to interact with users through a 
 
 ---
 
-## 💻 CodeMantra
 
-A coding/learning-focused project built around improving the developer learning experience.
 
-**Tech:** `React` `JavaScript` `Node.js`
 
----
+<a href="https://github.com/Priyank8449/Cara-The-Ecommerce-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyank8449&repo=Cara-The-Ecommerce-platform&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Priyank8449/foodie-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyank8449&repo=foodie-app&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Priyank8449/nova-virtual-assistant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyank8449&repo=nova-virtual-assistant&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Priyank8449/shoe_room">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyank8449&repo=shoe_room&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Priyank8449/Food-Del">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyank8449&repo=Food-Del&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Adhawan006/SmartHR">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adhawan006&repo=SmartHR&theme=tokyonight&hide_border=true" />
+</a>
+
 
 # 🧠 DSA Journey
 
