@@ -197,7 +197,7 @@ Bit Manipulation
 
 # 📈 GitHub Statistics
 
-![Priyank's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Priyank8449&show_icons=true&theme=radial)
+![Priyank's GitHub stats](https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=Priyank8449&show_icons=true&theme=radial)
 
 ---
 
